@@ -7,7 +7,7 @@
 
 ### Summary
 > Create a simple protocol for an implementation of a network-based multiplayer version of the classical game
-Battleship. After that, you will use the sockets library for writing the specific functions that concern
+Battleship. After that, you use the sockets library for writing the specific functions that concern
 the network communication withing this implementation.
 
 
