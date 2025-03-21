@@ -6,8 +6,9 @@
 ## PROJECT NAME
 
 ### Summary
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-###### You can find the project brief for this assignment in the [briefing](docs/assignment.pdf) file.
+> Create a simple protocol for an implementation of a network-based multiplayer version of the classical game
+Battleship. After that, you will use the sockets library for writing the specific functions that concern
+the network communication withing this implementation.
 
 
 ---
@@ -15,13 +16,6 @@
 ### **Requirements**
 - **Kotlin Compiler**: [Download here](https://kotlinlang.org/docs/command-line.html)
 - **JDK 22**: [Download here](https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html)
-- Any other software needed to run the project.
-
----
-
-### Acknowledgements
-- Mention any people that greatly helped us complete the project, and/or made it possible.
-- Mention any resources that we used to complete this project.
 
 ---
 
@@ -30,6 +24,5 @@
 | Contributor        | Email                      |
 |--------------------|----------------------------|
 | Alexandre Silva    | alexandresilva.coding@gmail.com     |
-| Daniel Viegas      | viegasdaniel111@gmail.com       |
 | Duarte Rodrigues   | duarte.afonso.rodrigues@gmail.com    |
 
