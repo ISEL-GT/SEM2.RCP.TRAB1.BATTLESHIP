@@ -3,7 +3,7 @@
 </p>
 
 
-## PROJECT NAME
+## BATTLESHIP CLIENT/SERVER
 
 ### Summary
 > Create a simple protocol for an implementation of a network-based multiplayer version of the classical game
